@@ -50,6 +50,7 @@ h1 {
   margin-bottom: 15px;
   color: hsl(300, 43%, 22%);
 }
+h2,
 h3 {
   font-family: "League Spartan", sans-serif;
   font-weight: 500;
@@ -69,8 +70,9 @@ p {
   margin-top: 10px;
   border-radius: 5px;
 }
-.star p {
+.star h2 {
   color: hsl(300, 43%, 22%);
+  font-size: large;
 }
 .star-1 {
   align-self: flex-start;
