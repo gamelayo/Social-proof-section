@@ -72,7 +72,7 @@ p {
 }
 .star h2 {
   color: hsl(300, 43%, 22%);
-  font-size: large;
+  font-size: 16px;
 }
 .star-1 {
   align-self: flex-start;
